@@ -25,25 +25,28 @@
 
 ## 🚀 Projects
 
-- **TaskHive**  
-  Kanban-based task manager with AI-powered summaries for smart productivity.
+### 🔹 [TaskHive](https://github.com/KhushiGusain/TaskHive)  
+📌 **Live:** [taskhive.vercel.app](https://task-hive-otaa.vercel.app/)  
+📝 A smart, Kanban-based task manager with AI-powered summaries.
 
-- **DSAverse**  
-  A learning platform to master DSA in a structured and beginner-friendly way.
+### 🔹 [DSAverse](https://github.com/KhushiGusain/DSAverse)  
+📌 **Live:** [dsaverse.vercel.app](https://dsaverse-1k1e.vercel.app)  
+📝 A beginner-friendly platform for mastering DSA with structured learning paths.
 
 ---
 
 ## 🔧 Currently Building
 
-A scalable full-stack web app focused on solving real-world problems (launching soon!)
+A scalable full-stack application tackling real-world problems — stay tuned! 🚧
 
 ---
 
 ## 🌱 About Me
 
-- I love building tech that blends creativity and functionality.
-- Always learning and open to new ideas & collaborations.
+- I enjoy crafting products that blend clean design with powerful functionality.
+- Always learning, always building. Open to internships, projects & collaborations!
 
 ---
 
-📫 **Let’s connect** – Open to collabs, internships, and building awesome things together!
+📫 **Let’s connect:**  
+Reach me at **[gusainkhushii@gmail.com](mailto:gusainkhushii@gmail.com)**
