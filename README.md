@@ -1,102 +1,120 @@
-# Hi, I'm Khushi Gusain  
+# Hi, I'm Khushi Gusain
 
-🎓 Final-Year BTech CSE Student @ Bennett University  
-💻 Full-Stack Developer | React Native Enthusiast | Problem Solver  
+🎓 Final-Year BTech CSE Student @ Bennett University
+💻 Software Developer | Backend Developer | Problem Solver
 
-I’m passionate about building **scalable and impactful products** across web and mobile platforms. From crafting elegant UIs in **React/Next.js and React Native** to designing robust backends with **Node.js, Express, and cloud services**, I enjoy turning ideas into reality.  
+I enjoy building scalable applications with a strong focus on backend systems, APIs, cloud infrastructure, and real-world product workflows. From designing responsive interfaces in React/Next.js to engineering backend services using Spring Boot, Node.js, PostgreSQL, Redis, and AWS, I love building products that are both technically robust and user-focused.
 
-- 🌱 Currently exploring **Firebase** and **advanced DSA**  
-- 🤝 Open to internships, collaborations, and exciting projects  
-
----
-## 💼 Tech Stack  
-
-**Frontend & Mobile**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-**Backend & APIs**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white)
-
-**Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
-
-**Cloud**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+* 🌱 Currently exploring distributed backend systems, Redis workflows, and advanced DSA
+* 🤝 Open to software engineering internships, backend roles, and impactful collaborations
 
 ---
 
-## 🌟 Featured Projects  
+## 💼 Tech Stack
 
-### 📌 Portfolio Website  
-**Live:** [khushigusain.dev](https://khushigusain.dev) · **Code:** [Repo](https://github.com/KhushiGusain/newPortfolio)  
-**Stack:** Next.js, React, Tailwind CSS, Framer Motion, Vercel  
-- Modern, responsive design with smooth animations  
-- Sections for About, Projects, and Contact  
-- Mobile-first layout with a clean hero section  
+### **Languages**
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
 
-### 📌 TaskHive  
-**Live:** [Demo](https://task-hive-otaa.vercel.app) · **Code:** [Repo](https://github.com/KhushiGusain/TaskHive)  
-**Stack:** Next.js, React, Tailwind, Node.js, Express, MongoDB, OpenAI API  
-- Kanban-style task manager with **AI summaries**  
-- Real-time updates, authentication & roles  
-- Drag-and-drop boards with server-side rendering  
+### **Backend & APIs**
 
----
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat\&logo=springboot\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
 
-### 📌 DSAverse  
-**Live:** [Demo](https://dsaverse-1k1e.vercel.app) · **Code:** [Repo](https://github.com/KhushiGusain/DSAverse)  
-**Stack:** Next.js, React, Tailwind, PostgreSQL, Prisma  
-- Beginner-friendly DSA learning platform  
-- Topic-wise tracks with progress tracking  
-- Bookmarks & problem explanations  
+### **Frontend**
 
----
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=nextdotjs\&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white)
 
-### 📌 Blog CMS + Admin Portal  
-**Live:** [Demo](https://dynamic-blog-post-with-admin-portal-brown.vercel.app/admin/dashboard)  
-**Stack:** Next.js, React, Tailwind, MongoDB, JWT/NextAuth  
-- CMS-driven blog with secure admin dashboard  
-- Role-based access and image uploads  
-- Fully responsive UI  
+### **Databases & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat\&logo=mongodb\&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat\&logo=amazon-dynamodb\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
 
 ---
 
-### 📌 Cryptocurrency Dashboard  
-**Live:** [Demo](https://react-dashboard-task-e9wbicp3w-khushi-gusains-projects.vercel.app/)  
-**Stack:** React, Vite, Tailwind, Recharts, React Router  
-- Real-time Bitcoin & market overview  
-- Interactive line & pie charts, auto-refresh every 5 mins  
-- Dark theme with responsive design and error handling  
+## 🌟 Featured Projects
+
+### 📌 InterviewlyAI
+
+**Live:** [Demo](https://interviewly-ai-black.vercel.app/login) · **Code:** [Repo](https://github.com/KhushiGusain/InterviewlyAI)
+
+**Stack:** Spring Boot, Redis, PostgreSQL, OpenAI, React, Docker
+
+* AI-powered mock interview platform with resume-aware question generation and real-time voice-based interview interactions
+* Built a Spring Boot backend with JWT authentication, asynchronous evaluation pipelines, and Redis-backed queue processing
+* Designed dynamic interview workflows with contextual follow-up generation across technical and behavioral interview rounds
+* Deployed using Render, Vercel, Neon PostgreSQL, and Upstash Redis
 
 ---
 
-## 🚀 What I’m Up To  
-- Building a scalable full-stack app tackling real-world challenges  
-- Sharing learnings & projects on my [portfolio](https://khushigusain.dev)  
-- Preparing for software engineering internships at top product companies  
+### 📌 TaskHive
+
+**Live:** [Demo](https://task-hive-otaa.vercel.app) · **Code:** [Repo](https://github.com/KhushiGusain/TaskHive)
+
+**Stack:** Next.js, AWS Lambda, DynamoDB, API Gateway
+
+* Real-time collaboration platform with scalable serverless task management workflows
+* Designed REST APIs using AWS Lambda and API Gateway for collaborative operations
+* Integrated DynamoDB for efficient NoSQL storage in a serverless architecture
 
 ---
 
-## 🙋 About Me  
-- I enjoy building products that balance **clean design and strong functionality**  
-- Always learning, always building  
-- Open to internships, projects, and collaborations  
+### 📌 DSAverse
+
+**Live:** [Demo](https://dsaverse-1k1e.vercel.app) · **Code:** [Repo](https://github.com/KhushiGusain/DSAverse)
+
+**Stack:** Next.js, PostgreSQL, Prisma, OpenAI
+
+* AI-powered DSA preparation platform with personalized roadmaps and progress tracking
+* Integrated OpenAI APIs for doubt resolution and debugging workflows
+* Built interactive analytics dashboards and PostgreSQL-backed learning workflows
 
 ---
 
-## 📫 Connect With Me  
-- Email: [gusainkhushii@gmail.com](mailto:gusainkhushii@gmail.com)  
-- LinkedIn: [linkedin.com/in/khushi-gusain](https://www.linkedin.com/in/khushi-gusain-673b17282/)  
-- Portfolio: [khushigusain.dev](https://khushigusain.dev)  
-LinkedIn: [linkedin.com/in/khushigusain](https://www.linkedin.com/in/khushi-gusain-673b17282/)
-Portfolio/Website: [khushigusain.dev](https://khushigusain.dev/)
+### 📌 Blog CMS + Admin Portal 
+
+**Live:** [Demo](https://dynamic-blog-post-with-admin-portal-brown.vercel.app/admin/dashboard) 
+
+**Stack:** Next.js, React, Tailwind, MongoDB, JWT/NextAuth 
+
+- CMS-driven blog with secure admin dashboard 
+- Role-based access and image uploads 
+- Fully responsive UI
+--- 
+
+### 📌 Cryptocurrency Dashboard 
+
+**Live:** [Demo](https://react-dashboard-task-e9wbicp3w-khushi-gusains-projects.vercel.app/) 
+
+**Stack:** React, Vite, Tailwind, Recharts, React Router 
+
+- Real-time Bitcoin & market overview 
+- Interactive line & pie charts, auto-refresh every 5 mins 
+- Dark theme with responsive design and error handling
+
+---
+
+## 🚀 What I’m Currently Working On
+
+* Building scalable backend-driven applications and AI-powered workflows
+* Exploring asynchronous systems, Redis-based processing, and cloud deployment architecture
+* Strengthening problem-solving skills through DSA and system design concepts
+
+---
+
+## 📫 Connect With Me
+
+* Email: [gusainkhushii@gmail.com](mailto:gusainkhushii@gmail.com)
+* LinkedIn: [linkedin.com/in/khushi-gusain](https://www.linkedin.com/in/khushi-gusain-673b17282/)
+* Portfolio: [khushigusain.dev](https://khushigusain.dev/)
