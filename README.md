@@ -1,4 +1,4 @@
-# Hi, I'm Khushi Gusain
+# Hi, I'm Khushii Gusain
 
 🎓 Final-Year BTech CSE Student @ Bennett University
 
