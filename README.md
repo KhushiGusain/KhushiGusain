@@ -2,7 +2,7 @@
 
 2026 Graduate @ Bennett University
 
-💻 Software Developer | Backend Developer | Problem Solver
+Software Developer | Backend Developer | Problem Solver
 
 I enjoy building scalable applications with a strong focus on backend systems, APIs, cloud infrastructure, and real-world product workflows. From designing responsive interfaces in React/Next.js to engineering backend services using Spring Boot, Node.js, PostgreSQL, Redis, and AWS, I love building products that are both technically robust and user-focused.
 
