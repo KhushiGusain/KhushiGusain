@@ -1,6 +1,6 @@
 # Hi, I'm Khushii Gusain
 
-🎓 Final-Year BTech CSE Student @ Bennett University
+2026 Graduate @ Bennett University
 
 💻 Software Developer | Backend Developer | Problem Solver
 
