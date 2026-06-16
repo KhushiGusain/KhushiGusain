@@ -117,5 +117,5 @@ I enjoy building scalable applications with a strong focus on backend systems, A
 ## 📫 Connect With Me
 
 * Email: [gusainkhushii@gmail.com](mailto:gusainkhushii@gmail.com)
-* LinkedIn: [linkedin.com/in/khushi-gusain](https://www.linkedin.com/in/khushi-gusain-673b17282/)
+* LinkedIn: [linkedin.com/in/khushi-gusain](https://www.linkedin.com/in/khushii-gusain-673b17282/)
 * Portfolio: [khushigusain.dev](https://khushigusain.dev/)
